@@ -62,11 +62,13 @@ I used various ArcGIS Pro tools, including Spatial Reference, Feature Dataset, E
 
 ### Feature:
 
-✔️ To begin with, I was tasked with collecting and organizing data from various sources, including CSV and Excel files, as well as a database. To accomplish this, I utilized a range of Python libraries, such as Pandas, SQLite3, and openpyxl. During the exploratory analysis, I assessed the data for various characteristics, such as the number of columns and entries, null values, data types, and unique indexes, and subsequently prepared the data for analysis. To proceed, I merged all the data frames into a single one for ease of use.
+✔️ A map of the proposed marine protected area, which incorporates information on terrestrial and marine coverages, as well as roads.
 
-✔️ In the analytical section, I was tasked with answering four questions using both analytical and graphical approaches. Additionally, I had to formulate three new questions and provide responses to them.
+✔️ A dashboard that provides an overview of the representativeness of each ecosystem within the protected area through a pie chart and a map, along with the area's size in hectares. The dashboard is designed to be both simple and visually appealing. 
 
-✔️ Finally, I presented the conclusions and recommendations of the project in a clear and concise manner.
+✔️ A geodatabase, containing three datasets: the first one includes layers and inputs used in the marine protected area determination process, the second one consists of coverages and road layers, and the third one includes the proposed marine protected area.
+
+✔️ A justification for the MPA's delimitation, along with conclusions regarding the usefulness of ArcGIS Pro and ArcGIS Online for the project, as well as future recommendations.
 
 ### Resources used:
 
