@@ -62,13 +62,13 @@ I used various ArcGIS Pro tools, including Spatial Reference, Feature Dataset, E
 
 ### Feature:
 
-✔️ A map of the proposed marine protected area, which incorporates information on terrestrial and marine coverages, as well as roads.
+✔️ A map of the proposed Marine Protected Area, which incorporates information on terrestrial and marine coverages, as well as roads.
 
 ✔️ A dashboard that provides an overview of the representativeness of each ecosystem within the protected area through a pie chart and a map, along with the area's size in hectares. The dashboard is designed to be both simple and visually appealing. 
 
-✔️ A geodatabase, containing three datasets: the first one includes layers and inputs used in the marine protected area determination process, the second one consists of coverages and road layers, and the third one includes the proposed marine protected area.
+✔️ A geodatabase, containing three datasets: the first one includes layers and inputs used in the Marine Protected Area determination process, the second one consists of coverages and road layers, and the third one includes the proposed Marine Protected Area.
 
-✔️ A justification for the MPA's delimitation, along with conclusions regarding the usefulness of ArcGIS Pro and ArcGIS Online for the project, as well as future recommendations.
+✔️ A justification for the Marine Protected Area's delimitation, along with conclusions regarding the usefulness of ArcGIS Pro and ArcGIS Online for the project, as well as future recommendations.
 
 ### Resources used:
 
